@@ -40,7 +40,8 @@ We may request access or permission to certain features from your mobile device 
 - The manage external storage is required to open created files like PDF,
 - The receive boot completed, schedule exact alarm, and wake lock permissions are required to make an alarm of product expiration date works,
 - The flashlight, camera permissions are required to scan QR code and adding products images.
-
+- AD_ID this permission is required to devices that are above 13 to show the ADs.
+  
 If you wish to change our access or permissions, you may do so in your device’s settings.
 
 ## **Mobile Device Data**
