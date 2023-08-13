@@ -33,7 +33,7 @@ This Privacy Policy does not apply to the third-party libraries, so we give no g
 
 ## **Mobile Device Access and Permissions**
 
-We may request access or permission to certain features from your mobile device to make our app's functions operate correctly,  including your mobile device’s ```INTERNET```, ```READ EXTERNAL STORAGE```, ```READ MEDIA IMAGES```, ```MANAGE EXTERNAL STORAGE```, ```FLASHLIGHT```, ```RECEIVE BOOT COMPLETED```, ```WAKE LOCK```, ```SCHEDULE EXACT ALARM```, ```CAMERA```. 
+We may request access or permission to certain features from your mobile device to make our app's functions operate correctly,  including your mobile device’s ```INTERNET```, ```READ EXTERNAL STORAGE```, ```READ MEDIA IMAGES```, ```MANAGE EXTERNAL STORAGE```, ```FLASHLIGHT```, ```RECEIVE BOOT COMPLETED```, ```WAKE LOCK```, ```SCHEDULE EXACT ALARM```, ```CAMERA```, ```AD_ID```. 
 
 - The internet permission are required to sending and receiving data between server and clients,
 - The read internal storage and read media images permission is required to add images to a product,
