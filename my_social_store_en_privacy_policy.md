@@ -1,12 +1,12 @@
 # Privacy Policy
 
-> Last updated [June 17, 2023]
+> Last updated [August 13, 2023]
 
 MoAmri respects the privacy of our users. This Privacy Policy explains how we collect, use and disclose your information when you use our mobile application (the “My Social Store”). Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE APPLICATION.
 
 We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Last updated” date of this Privacy Policy. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted.
 
-We built the My Social Store app as an Ad Supported app and Monthly Subscription.
+We built the My Social Store app as an Ad Supported app.
 
 ## **Information Collection and Use**
 
@@ -18,7 +18,7 @@ To ensure proper functionality of the application, the following information is 
 
 ## **Disclaimer**
 
-Store owners are strongly advised to periodically perform data backups in order to mitigate the risk of data loss. While certain data may be recoverable from our server upon login, it is important to note that not all data can be restored. Please be aware that we do not assume any responsibility for the loss of user data.
+Store owners are strongly advised to periodically perform data backups in order to mitigate the risk of data loss. Please be aware that we do not assume any responsibility for the loss of user data.
 
 ## **Third-Party Advertisers and Services**
 
