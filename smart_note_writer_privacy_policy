@@ -1,21 +1,30 @@
 # Privacy Policy
 
-> Last updated [Jun 19, 2025]
+> Last updated [Jul 3, 2025]
 
-MoAmri respects the privacy of our users. This Privacy Policy explains how we collect, use and disclose your information when you use our mobile app (the “Smart Note Writer”). Please read this Privacy Policy carefully. 
+MoAmri respects the privacy of our users. This Privacy Policy explains how we collect, 
+use and disclose your information when you use our mobile app (the “Smart Note Writer”). 
+Please read this Privacy Policy carefully. 
 IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE APPLICATION.
 
 We reserve the right to make changes to this Privacy Policy at any time and for any reason. 
 We will alert you about any changes by updating the “Last updated” date of this Privacy Policy. 
 You are encouraged to periodically review this Privacy Policy to stay informed of updates. 
-You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted.
+You will be deemed to have been made aware of, 
+will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by 
+your continued use of the Application after the date such revised Privacy Policy is posted.
 
 This app was built with Flutter
 
 ## **Information Collection and Use**
 
-There is nothing of information the app collects except the information processed by the Gemnini model like recorded voice to generate the note or tasks.
-PLEASE note that we use the free tier of the Gemini so your processed data might be used by Gemini to improve thier model.
+There is nothing of information the app collects by our side.
+
+We may use third-party services that may collect information used to identify you. These include:
+ - Google Play Services
+ - Firebase Analytics
+ - Crashlytics
+ - Gemini AI: your voice records is being processed by Gemini
 
 ## **Contact Us**
 
